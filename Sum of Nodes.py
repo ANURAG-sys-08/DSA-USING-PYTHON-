@@ -22,8 +22,9 @@ class Node:
 def sum_of_nodes(root):
     if root is None:
         return 0
-    sum = 0
+    total = root.val
     for child in root.children:
-        sum = root.val + sum_of_nodes(child)
-    return sum
+        total = total + sum_of_nodes(child)
+    return total
+
 
