@@ -1,68 +1,33 @@
-📘 Data Structures & Algorithms – Python Practice Repository
+# 📘 Data Structures & Algorithms – Python Practice Journey
 
-Welcome to my DSA Learning Repository!
-This is the place where I’ve pushed all the programs and practice problems I solved while learning Data Structures and Algorithms (DSA) using Python. The goal of this repo is to track my progress, stay consistent, and build a strong foundation in problem-solving.
+Welcome to my **DSA Learning Repository**! 🚀
 
-🚀 About This Repository
+This repository serves as a comprehensive log of my journey through Data Structures and Algorithms. It contains all the solutions and practice problems I’ve tackled while building a strong foundation in problem-solving using **Python**.
 
-While learning DSA, I solved a wide range of problems from basic to advanced.
-All the code I wrote during my learning journey is organized and stored here.
+## 🎯 Project Goals
+- **Consistency:** Documenting daily progress and problem-solving patterns.
+- **Foundational Strength:** Mastering core concepts from Arrays to Dynamic Programming.
+- **Reference:** Creating a personal library of clean, optimized Python implementations.
 
-This repository includes programs based on:
-
-Arrays
-
-Strings
-
-Linked Lists
-
-Stacks & Queues
-
-Trees (Binary Trees, BSTs, etc.)
-
-Graphs
-
-Recursion & Backtracking
-
-Searching & Sorting
-
-Hashing
-
-Basic Dynamic Programming
-
-Each program is written in Python with a focus on:
-
-Clean and readable code
-
-Understanding logic rather than memorizing
-
-Practicing concepts repeatedly
-
-Preparing for interviews and coding challenges
+## 🧠 Roadmap & Topics Covered
 
 
-🎯 Purpose of This Repo
+The repository is organized by data structure and algorithmic technique:
+- **Basics:** Math, Recursion, Bit Manipulation.
+- **Linear Data Structures:** Arrays, Linked Lists, Stacks, Queues.
+- **Non-Linear Data Structures:** Trees (BST, Binary Tree), Graphs, Heaps.
+- **Algorithms:** Sorting, Searching, Sliding Window, Two Pointers, Greedy, and Dynamic Programming.
 
-To record my DSA learning journey
+## 🚀 LeetCode Milestone
+I am actively practicing on LeetCode to sharpen my competitive programming skills.
+- **Problems Solved:** 100+ 🎖️
+- **Focus:** Optimized time and space complexity ($O(N)$, $O(\log N)$).
 
-To maintain all my practice programs in one place
+🔗 **View my full progress here:** [My LeetCode Profile](https://leetcode.com/u/Anurag-Chauhan/)
 
-To improve problem-solving skills in Python
+## 🛠️ Tech Stack
+- **Language:** Python 3.x
+- **Platform:** LeetCode, Personal Practice
 
-To prepare for coding interviews and competitive programming
-
-To keep refining the solutions over time
-
-📌 Future Plans
-
-Add optimized versions of existing solutions
-
-Add comments and explanations for tricky problems
-
-Include time and space complexity
-
-Add problem statements for reference
-
-🙌 Contribution
-
-This is primarily a personal learning repository, but suggestions, improvements, and feedback are always welcome
+---
+*“First, solve the problem. Then, write the code.”* – John Johnson
